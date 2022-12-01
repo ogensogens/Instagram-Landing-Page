@@ -290,11 +290,15 @@ figcaption{
 }
 .six-icon{
     /* display: flex; */
+    color: black;
     padding-left: 20px;
     width: 347px;
     height: 48px;
     justify-content: center;
     justify-content: space-evenly
+}
+.six-icon a{
+    color: black;
 }
 .five-header-II{
     margin-left: 70px;
