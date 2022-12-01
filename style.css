@@ -158,8 +158,18 @@ figcaption{
     align-items: center;
     width:32px;
     height:32px
+ 
     
 }
+textarea {
+    border: none;
+    width: 380px;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    padding: 10px;
+}
+
 .dotted-line{
     margin-left: auto;
     margin-right: 10px;
@@ -278,6 +288,7 @@ figcaption{
 }
 .text-area{
     color: red;
+    margin-top: 5px;
 }
 .top-form img{
     background-color: white;
