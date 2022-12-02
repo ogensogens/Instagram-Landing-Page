@@ -7,6 +7,13 @@
 main {
     width: 1187px
 }
+
+#horizonatl{
+   width: 2000px;
+  border: 0px solid #837e7e;
+  color: #c8c2c2;
+  
+}
 .flex-row {
    
     text-align: center;
