@@ -10,10 +10,14 @@ main {
 
 #horizonatl{
    width: 2000px;
-  border: 0px solid #837e7e;
+
   color: #c8c2c2;
+  background-color: transparent;
+  outline: none;
   
+    
 }
+
 .flex-row {
    
     text-align: center;
